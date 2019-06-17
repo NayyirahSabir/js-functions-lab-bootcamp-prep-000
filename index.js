@@ -7,7 +7,7 @@ function happyHolidaysTo(name){
   console.log("Happy holidays, ${name}!")
 }
 
-string.happyHolidaysTo("you")
+string.happyHolidaysTo()
 
 function happyHolidayTo(holiday, name){
   console.log("Happy ${holiday}, ${name}!")
