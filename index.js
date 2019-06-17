@@ -4,5 +4,5 @@ function happyHolidays(string){
 }
 
 function happyHolidaysTo(firstName){
-  console.log
+  console.log("Happy holidays, ${name}!")
 }
