@@ -4,9 +4,8 @@ function happyHolidays(string){
 }
 
 function happyHolidaysTo(name){
-  if (string === name()){
-    return "Happy Holidays, ${name}"
-  }
+  console.log
+}
 
 function happyHolidayTo(greeting, name){
   console.log("Happy ${holiday}, ${name}!")
