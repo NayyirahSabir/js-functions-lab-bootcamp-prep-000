@@ -4,11 +4,11 @@ function happyHolidays(string){
 }
 
 function happyHolidaysTo(name){
-  return "Happy holidays, ${name}!"
+  console.log("Happy holidays, ${name}!")
 }
 
 function happyHolidayTo(greeting, name){
-  return "Happy ${holiday}, ${name}!"
+  console.log("Happy ${holiday}, ${name}!")
 }
 
 
