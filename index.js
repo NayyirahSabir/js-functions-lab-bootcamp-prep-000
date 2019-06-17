@@ -7,7 +7,7 @@ function happyHolidaysTo(name){
   console.log("Happy holidays, ${name}!")
 }
 
-string.happyHolidaysTo() === "Happy holidays, ${name}"
+happyHolidaysTo("")
 
 function happyHolidayTo(holiday, name){
   console.log("Happy ${holiday}, ${name}!")
