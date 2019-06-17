@@ -4,7 +4,7 @@ function happyHolidays(string){
 }
 
 function happyHolidaysTo(name){
-  return string.happyHolidaysTo()
+  return string."happyHolidaysTo()"
 }
 
 happyHolidaysTo("you")
