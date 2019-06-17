@@ -7,6 +7,6 @@ function happyHolidaysTo(name){
   return "Happy holidays, ${name}!".string 
 }
 
-happyHolidaysTo 
+happyHolidaysTo("you")
 
 
